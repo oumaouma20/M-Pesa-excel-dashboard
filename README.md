@@ -7,6 +7,8 @@
 - Spending patterns by day of the week
 - Interactive slicers and pivot charts
 - Documented transformation steps
+## 📊 Dashboard Preview!
+
 
 ## Author
 Emmanuel Ouma
